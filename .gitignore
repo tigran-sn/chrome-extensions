@@ -1,0 +1,137 @@
+# macOS
+.DS_Store
+
+# Xcode
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+*.xcworkspace
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# Swift Package Manager
+.build/
+Packages/
+Package.pins
+
+# CocoaPods
+Pods/
+Podfile.lock
+# Add this line if you're using CocoaPods with Swift
+# !Pods/*.swift
+
+# Carthage
+Carthage/Checkouts
+Carthage/Build
+
+# Android
+*.apk
+*.ap_
+*.class
+*.dex
+*.jar
+*.aar
+*.pro
+*.sln
+*.suo
+*.dll
+*.user
+*.manifest
+*.gradle
+.gradle/
+.idea/
+/.idea
+/.gradle
+/captures/
+/local.properties
+/.externalNativeBuild
+/.cxx
+
+# iOS
+.DS_Store
+*.ipa
+*.xcarchive
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Python
+*.pyc
+__pycache__/
+
+# Java
+*.class
+*.jar
+
+# Ruby
+*.gem
+*.rbc
+/.config
+/coverage/
+/InstalledFiles
+/pkg/
+/spec/reports/
+/test/tmp/
+/test/version_tmp/
+/tmp/
+*.log
+*.yml
+*.old
+*.lock
+*.lck
+*.out
+*.pid
+*.data
+*.sqlite3
+*/.bundle
+vendor/bundle
+/.yardoc/
+_yardoc/
+/doc/
+/install/
+/mkmf.log
+/ri/
+/*/doxygen/
+/*/ext/
+/*/include/
+/*/rdoc/
+/*/tmp/
+/*/specifications/
+/*/doc/
+
+# C/C++
+*.o
+*.a
+*.out
+
+# Build and compiled files
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.log.*
+
+# Other
+*~
+.DS_Store

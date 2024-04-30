@@ -1,0 +1,14 @@
+{
+  "name": "chrome-extensions",
+  "version": "1.0.0",
+  "description": "Extensions for Chrome browser.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tigran Soghomonyan",
+  "license": "ISC",
+  "dependencies": {
+    "chrome-types": "^0.1.282"
+  }
+}
